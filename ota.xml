@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <UNOFFICIAL>
+        <flo>
+            <Filename>Korus-Project-1.0-20180818-UNOFFICIAL-flo</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download Korus Project">https://tanzentlab.com/</RomUrl>
+	</A0001>
+    </Stable>
+</SlimOTA>
